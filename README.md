@@ -2,6 +2,11 @@
 
 Rune Magic is a Norse mythology inspired mod for Balatro that focuses on a new type of consumable called Rune Cards. Rune Cards are based on the Elder Futhark with each card having a powerful but temperamental effect. The Runes in norse mythology are a powerful tool for many, but they are also incredibly dificult to use without secret knowledge. To simulate this, each Rune Card will have a part of its effect that is at least partially out of the player's control.
 
+![RuneCard Jera](https://github.com/user-attachments/assets/ee5b480e-8230-4226-8cf7-6148a8ea3bea)
+
+*The current WIP desgin for Rune Card's*
+
+
 ## What's in Development
 ### Runes: 13/24
 <details>
