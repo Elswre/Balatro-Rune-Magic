@@ -8,7 +8,7 @@ Rune Magic is a Norse mythology inspired mod for Balatro that focuses on a new t
 
 
 ## What's in Development
-### Runes: 13/24
+### Runes: 19/24
 <details>
 <summary>List of Rune Cards</summary>
 
@@ -17,9 +17,9 @@ Rune Magic is a Norse mythology inspired mod for Balatro that focuses on a new t
 
 **Uruz-Power:** Increase the rank of up to 2 selected cards by a value between 1-3.
 
-**Thurisaz:** TO BE ADDED
+**Thurisaz-Conflict:** Destroy between 2-8 cards in hand.
 
-**Ansuz:** TO BE ADDED
+**Ansuz-Inspiration:** Draw 3 cards the discard 2 at random 
 
 **Raido:** TO BE ADDED
 
@@ -31,9 +31,9 @@ Rune Magic is a Norse mythology inspired mod for Balatro that focuses on a new t
 
 **Hagalaz-Destruction:** Decrease the rank of up to 2 selected cards by a value between 1-3.
 
-**Naudiz:** TO BE ADDED
+**Nauthiz-Endurance:** When you play your most played poker hand this round gain between $1-3.
 
-**Isaz-Ice:** Decrease the rank of all [suit] cards in hand, suit changes after each hand.
+**Isaz-Ice:** Destroy a random card add 2 random glass cards to your hand.
 
 **Jera-Harvest:** Increase the rank of all [suit] cards in hand, suit changes after each hand.
 
@@ -49,13 +49,13 @@ Rune Magic is a Norse mythology inspired mod for Balatro that focuses on a new t
 
 **Berkano-Rebirth:** Select up to 3 cards, destroy the left card and convert the other into random cards of the same suit with higher ranks.
 
-**Ehwaz:** TO BE ADDED
+**Ehwaz-Companionship:** Discard 2 random cards add 2 random face cards to your hand.
 
 **Mannaz:** TO BE ADDED
 
-**Lagux:** TO BE ADDED
+**Laguz-Sleep:** Decrease the rank of all [suit] cards in hand, suit changes after each hand.
 
-**Ingwaz:** TO BE ADDED
+**Ingwaz-Creation:** The next time you play a consumable create 2 random cards of a different type
 
 **Dagaz:** TO BE ADDED
 
